@@ -62,32 +62,6 @@ Actuellement à la recherche d’un **stage de fin d’études PFE**.
 
 ---
 
-# 💼 Expériences Professionnelles
-
-### 🔹 **Stage PFE – SAGEMCOM Tunisie (6 mois)**
-- Développement de tests automatisés génériques pour SICONIA
-- Intégration des résultats dans Jira Xray  
-- **Tech :** Selenium, Cucumber, Java, Python, Git, Jira
-
----
-
-### 🔹 **TALAN Tunisie – 2 mois**
-- Développement d’une application web de gestion des missions  
-- **Tech :** Angular 20, Spring Boot, PostgreSQL, Docker
-
----
-
-### 🔹 **SAGEMCOM – 2 mois**
-- Gestion générique des formats de dates  
-- **Tech :** Angular, Spring Boot, PostgreSQL
-
----
-
-### 🔹 **TALAN – 1.5 mois**
-- Application de gestion des stages  
-- **Tech :** Spring Boot, PostgreSQL, UML, Scrum
-
----
 
 # 📚 Projets Académiques
 
