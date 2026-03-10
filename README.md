@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a8ff,100:004e92&height=220&section=header&text=Mechergui%20Islem&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">👨‍💻 Développeur Full Stack | Backend | Data | QA Automation</h3>
+<h3 align="center">👨‍💻 Développeur Full Stack | QA Automation</h3>
 <h4 align="center">🎓 Master Professionnel – Ingénierie des Systèmes d’Information & Data Science (FSEGT)</h4>
 
 <p align="center">
